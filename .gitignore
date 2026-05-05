@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+**/build/
+
+# IDE files
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+.DS_Store
+
+# Android Studio
+/captures
+.externalNativeBuild
+.cxx
+
+# Project specific
+Final Apk/
+PRD.docx
+PRD.pdf
+*.apk
+
+# Signing
+*.jks
+*.keystore
